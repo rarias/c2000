@@ -12,7 +12,7 @@ TI y el PowerSuite que dan soporte a cada micro en particular (headers y configu
 del debugger XDS100v2).
 Desde la consola de Matlab >>checkEnvSetup('ccsv5','f28069','list')
 Lista las opciones para el F377S y la versión 6 del CodeComposer (sic), y
->>checkEnvSetup('ccsv5','f28069') 
+ >>checkEnvSetup('ccsv5','f28069') 
 permite definir los accesos (paths) al compilador y las herramientas.
 La versión a usar de los headers (punto 5) es la 1.60.
 
