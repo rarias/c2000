@@ -6,9 +6,7 @@ Ejemplos de programación en Matlab2016a-simulink
 
 2) test_serial.slx    Hace un loopback por puerto serie
 
-3) test_adc.slx    Con un LM35 y una entrada al conversor ADC se mide temperatura
-
-4) test_adc_y_serial.slx    Mide temperatura con un LM35 y la transmite por puerto serie
+3) test_adc_y_serial.slx    Mide temperatura con un LM35 y la transmite por puerto serie
 
 Notas de instalación: Además de Matlab y el paquete de soporte de los micros C2000 
 (Mtlb>>supportPackageInstaller), hay que tener instalado el compilador CodeComposer de 
