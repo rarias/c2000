@@ -1,9 +1,13 @@
 # c2000
 Microcontrolador TMS320F28377S de Texas Instruments, en kit de desarrollo Launchxl-f28377s
 Ejemplos de programación en Matlab2016a-simulink
+
 1) test_led_azul.slx  prende y apaga el led azul (gpio13) del kit
+
 2) test_serial.slx hace un loopback por puerto serie
+
 3) test_adc.slx mide con un conversor ADC se mide temperatura con un LM35
+
 4) test_adc_y_serial.slx Mide temperatura con un LM35 y la transmite por puerto serie
 
 Notas de instalación: Además de Matlab y el paquete de soporte de los micros C2000 
