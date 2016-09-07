@@ -7,10 +7,11 @@ Ejemplos de programación en Matlab2016a-Simulink del microcontrolador TMS320F28
 
 3) test_adc_y_serial.slx    Mide temperatura con un LM35 y la transmite por puerto serie
 
-Notas de instalación: Además de Matlab y el paquete de soporte de los micros C2000 
-(Mtlb>>supportPackageInstaller), hay que tener instalado el compilador CodeComposer de 
-TI y el PowerSuite que dan soporte a cada micro en particular (headers y configuración 
-del debugger XDS100v2).
+Notas de instalación: 
+Además de Matlab 2016a y el paquete de soporte de los micros C2000 
+(Mtlb>>supportPackageInstaller), hay que tener instalado el compilador Code Composer de 
+TI (http://www.ti.com/tool/ccstudio-c2000) y el PowerSuite (http://www.ti.com/tool/powersuite) que da soporte a cada micro en particular (headers y configuración del debugger XDS100v2).
+
 Desde la consola de Matlab >>checkEnvSetup('ccsv5','f28069','list')
 Lista las opciones para el F377S y la versión 6 del CodeComposer (sic), y
 Mtlb>>checkEnvSetup('ccsv5','f28069') 
