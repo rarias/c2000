@@ -1,6 +1,5 @@
 # c2000
-Microcontrolador TMS320F28377S de Texas Instruments, en kit de desarrollo Launchxl-f28377s
-Ejemplos de programación en Matlab2016a-simulink
+Ejemplos de programación en Matlab2016a-Simulink del microcontrolador TMS320F28377S de Texas Instruments, en kit de desarrollo Launchxl-f28377s (http://www.ti.com/tool/launchxl-f28377s).
 
 1) test_led_azul.slx    Prende y apaga el led azul (gpio13) del kit
 
@@ -18,4 +17,4 @@ Mtlb>>checkEnvSetup('ccsv5','f28069')
 permite definir los accesos (paths) al compilador y las herramientas.
 La versión a usar de los headers (punto 5) es la 1.60.
 
-Ultima actualización: 2016-may-10
+Ultima actualización: 2016-sep-07
